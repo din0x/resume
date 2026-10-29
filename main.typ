@@ -61,18 +61,15 @@
 - Imported custom models and animations into an Unreal Engine game
 - Programmed character movement, level obstacles, and gameplay logic using Unreal Engine Blueprints
 
-#work(
-  title: "Software Developer",
-  location: "Poland",
-  company: "Studio Dekoracji \"KavaiRubin\"",
-  dates: "Freelance",
-)
-- Built a responsive company website using Astro.js and Tailwind CSS
-- Migrated the company's website hosting from nazwa.pl to webd.pl, including DNS configuration
-- Migrated existing mailboxes to the new email hosting provider
-- Migrated company's domains to OVH while maintaining website and email availability
-
 == Projects
+
+#project(
+  name: "Custom 16-bit RISC Cpu Emulator",
+  url: "github.com/din0x/custom-risc16-emulator",
+)
+- Designed a custom Instruction Set Architecture with variable-length encoding
+- Written an assembler for the custom instruction set
+- Written the emulator for the RISC16 instruction set in the C Programming Language
 
 #project(
   name: "Stratospheric Balloon",
